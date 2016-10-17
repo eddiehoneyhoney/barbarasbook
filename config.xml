@@ -32,7 +32,7 @@
   
   
   
-<icon src="/logosdrita.jpg" gap:role="default" />
+<icon src="/icon.png" gap:role="default" />
 
 
 </widget>
