@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.beckysgame.ya"
+    versionCode = "14"
+    version     = "1.1.0" >
+
+  <name>Beckys game</name>
+  <description>
+      A game
+  </description>
+  <author email="ruig6549@gmail.com">
+      R. Edward Gouveia
+  </author>
+
+  <!-- all platforms -->
+  <preference name="phonegap-version" value="cli-6.3.0" />
+ 
+  <preference name="fullscreen" value="true" />
+
+  <!-- iOS only -->
+  <preference name="target-device" value="universal" />
+  <preference name="prerendered-icon" value="true" />
+  <preference name="detect-data-types" value="true" />
+  <preference name="exit-on-suspend" value="true" />
+  <preference name="deployment-target" value="7.0" />
+
+  <!-- Android only -->
+  
+  <preference name="android-minSdkVersion" value="11" />
+ 
+  
+  
+  
+<icon src="/logosdrita.jpg" gap:role="default" />
+
+
+</widget>
