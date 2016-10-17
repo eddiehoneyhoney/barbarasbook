@@ -27,7 +27,7 @@
 
   <!-- Android only -->
   
-  <preference name="android-minSdkVersion" value="11" />
+  <preference name="android-minSdkVersion" value="14" />
  
   
   
