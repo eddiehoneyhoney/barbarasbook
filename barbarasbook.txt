@@ -1,4 +1,11 @@
-1 part
+
+
+
+pintura
+
+
+
+
 Sabe aqueles dias em que a gente tem a impress&atilde;o de que &eacute; diferente dos outros?<br> 
 Onde vemos nosso acordar, nosso espregui&ccedil;ar e bocejar por outro aspecto?<br>
 Olhamos no espelho , prestando aten&ccedil;&atilde;o aos nossos movimentos cotidianos, a rotina dos come&ccedil;os de dias.<br> 
@@ -63,4 +70,101 @@ de preço indiscutível, para à noite ter sonhos onde seja possível ao menos v
 
 
       </p><div class="footerhe">Barbara M. de Araújo</div>
+
+
+
+
+
+
+
+
+rua dos gatos telepaticos
+
+
+
+Snow decide fazer uma festa;<br>
+A cidade dos gatos está armada na rua dos telepaticos;<br>
+Quantos gatos, meu Deus!!!<br>
+Snow convida os mais legais...<br>
+Os gato que não querem ser gente;<br>
+Snow toca teclado para eles ,enquanto abrem uma garrafa de vinho,<br>
+Vestidos com uma tunica de seda, os gatos festejam...<br>
+Snow com sua cauda plumada define o compasso...<br>
+Ta...ixxx...ta...ixx...taaa...<br>
+Snow...<br>
+diga me mais...<br>
+diga me mais...<br>
+N rua dos gatos telepáticos não há tristeza;<br>
+Gatos não demonstram tristeza...eles param e telepatam.<br>
+Snow...<br>
+diga me mais<br>
+diga me mais...<br>
+Não minta, os outros leem seus pensamentos. hahaha<br>
+Na rua dos gatos telepatas não há verdade;<br>
+Os gatos sabem que isso é relativo.<br>
+A verdade depende do cheiro que vem com vento.<br>
+Snow sabe que não adianta tanto dizer...se cada um entende como quer.<br>
+Snow...<br>
+diga me mais<br>
+diga me mais<br>
+<div style="float:right;">
+<a href="#home" data-transition="turn"><img src="home.png"/></a>
+    <a href="#rgt1" data-transition="turn"><img src="next.png"/></a>
+      </div>
+      </div>
+
+  <div data-role="footer">
+    <h1 class="footerhe">Writen by Barbara Gouveia .Made by R. Edward Gouveia</h1>
+  </div>
+</div>
+
+<div data-role="page" id="rgt1">
+  <div data-role="header">
+    <h1 class="title">A rua dos gatos telepatas.</h1>
+  </div>
+
+  <div data-role="main" class="ui-content">
+    <p class="logo">Na rua dos gatos telepatas...<br>
+quem fala a verdade esta livre?<br>
+esta preso?<br>
+Ta...ixxx...ta...ixx...taaa<br>
+Snow diga me mais<br>
+diga me mais..<br>
+Na rua dos gatos telepatas não há rotulos...a vida é livre...<br>
+É....livre...todos miam...e se entendem..<br>
+E quando algo dá errado todos correm,saltitam e não pensam em nada.... é o universo se ajustando.<br>
+Na rua dos gatos teleptas.<br>
+to tototo taaa....tototo taaa...<br>
+Um gato resolver revolucionar...<br>
+ele achou que era um cao...e latiu.<br>
+Todos olharam pra ele e sorriram ao invez de correr.<br>
+Não há medos na rua dos gatos telepatas.<br>
+Eles são unicos e sabem disso...<br>
+E outra garrafa de vinho...<br>
+e os gatos discutem Bob Dylan ;<br>
+Na rua dos gatos telepatas todos são humanos, são aliens...vivem!!! Yeah!!!<br>
+ta...ixxx...ta...ixx...taaa<br>
+e o Rabo do Snow determina o compasso;<br>
+ele não pensa em tempo e tudo sai perfeito...<br>
+Na rua dos gatos telepatas.<br>
+Eles comem, dorme, e bebem seu vinho.<br>
+Nada pode impedir esses peludos.<br>
+e na rua dos gatos telepatas...<br>
+eles se fazem do mesmo...do simples...do melhor e do supremo...<br>
+eles sabem quem são e o que querem e onde vão chegar...<br>
+Ta...ixxx..ta...ixxx...taaaa<br>
+Snow disse: ok está bom,para!<br>
+      </p><p class="footerhe">Barbara M AG</p>
+      <div style="float:right;">
+    <a href="#rgt" data-transition="turn" data-direction="reverse"><img src="previous.png"/></a>
+      <a href="#home" data-transition="turn"><img src="home.png"/></a>
+      </div>
+      </div>
+
+  <div data-role="footer">
+    <h1 class="footerhe">Writen by Barbara Gouveia. Made by R. Edward Gouveia</h1>
+  </div>
+
+
+
 
