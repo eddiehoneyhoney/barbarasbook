@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    <link rel="manifest" href="manifest.json">
+
+    <!-- un-comment this code to enable service worker
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('service-worker.js')
+          .then(() => console.log('service worker installed'))
+          .catch(err => console.log('Error', err));
+      }
+    </script>-->
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+
+    <!-- ionic/angularjs js -->
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    <!-- your app's js -->
+    <script src="js/app.js"></script>
+  </head>
+  <body ng-app="starter">
+
+    <ion-pane>
+      <ion-header-bar class="bar-stable">
+          
+   
+      <a href="index.html" target="_self"><img src="img/home.png"/ alt="Voltar para home"></a>
+      <a href="paint.html" target="_self"><img src="img/USUKF.png"/></a>
+      </ion-header-bar>
+      <ion-content>
+              
+  
+    <h1 class="text">Pintura</h1>
+    <p class="text">
+Sabe aqueles dias em que a gente tem a impress&atilde;o de que &eacute; diferente dos outros?<br> 
+Onde vemos nosso acordar, nosso espregui&ccedil;ar e bocejar por outro aspecto?<br>
+Olhamos no espelho , prestando aten&ccedil;&atilde;o aos nossos movimentos cotidianos, a rotina dos come&ccedil;os de dias.<br> 
+O que sempre fazemos e quando não prestamos aten&ccedil;&atilde;o ao que quase n&atilde;o fazemos.<br>
+&Eacute; que uma mudan&ccedil;a, qualquer coisa fora do lugar nos deixa em p&acirc;nico, quando estamos presos &agrave; rotina.<br>
+J&aacute; prestou aten&ccedil;&atilde;o que parece passarmos por lugares diferentes quando simplesmente nos atrasamos? Tudo muda.<br> 
+A cor do sol, seu brilho, o movimento nas ruas, seus sons, a quantidade de gente e os olhares dos que convivem conosco.<br>
+Est&aacute; todo mundo condicionado ao tique-taque cont&iacute;nuo de um rel&oacute;gio. Nada pode mudar de ritmo!<br>
+De repente voc&ecirc; levanta mais cedo e, mesmo caindo de sono, decide procurar pelo menos uma<br>
+brecha para ver como o dia amanhece, como o sol nasce e as cores e sons daqueles momentos.<br> 
+Os p&aacute;ssaros celebram um grande prazer que &eacute; viver, acordar e poder sentir essa magia.<br>
+Ent&atilde;o voc&ecirc; pode dar mais valor ao seu tempo e ao tempo da vida, pois nunca p&aacute;ra.<br>
+Começa a correria.<br>
+Pessoas falam, as primeiras buzinas e ronco dos motores, o tr&aacute;fego......, sua hora de correr, tamb&eacute;m.<br>
+Voc&ecirc; sente que seu corpo est&aacute; encostado em uma janela, uma porta ou uma parede, etc.<br> 
+Voc&ecirc; sente o vento batendo suavemente, por&eacute;m &agrave;s vezes frio, o seu rosto.<br>
+Neste dia a &aacute;gua do banho est&aacute; estranha. Voc&ecirc; consegue, por mais que meros instantes,<br>
+senti-la massageando sua nuca, seu rosto, suas m&atilde; a toca e percebe sua import&acirc;ncia.<br>
+Em um relaxamento digno de atraso. &#39; ficaria mais uns dez minutos aqui...&#39;<br>
+Seu guarda roupas hoje est&aacute; sem gra&ccedil;a, como quase sempre( nunca nos contentamos!)<br>
+Voc&ecirc; olha, olha, tenta combinar.....se tiver um pouquinho de paci&ecirc;ncia, vai achar uma<br>
+blusa h&aacute; um temp&atilde;o esquecida e.... ah ! Ou ent&atilde;o vai mesmo se atrasar.<br>
+E o caf&eacute; da manh&atilde;? &Eacute; quase sempre a mesma coisa! Uma obriga&ccedil;&atilde;o. Tem gente variando e muitos chorando .<br>
+Fome, desemprego, humilha&ccedil;&otilde;es, viol&ecirc;ncia. Esqueci alguma coisa?<br>
+
+   Ai, que droga! Por uns trinta segundos, apenas, perdi o &ocirc;nibus!<br>
+Será que mesmo assim nos damos conta do quanto o tempo &eacute; precioso?<br>
+Muita gente sabe, conhece o mist&eacute;rio gracioso, ou sombrio, que trinta segundos<br>
+podem representar em um tr&acirc;nsito, um assalto, em um abra&ccedil;o, um sorriso, etc.<br>
+Estamos atentos ao que ocorre a cada segundo conosco? Com a vida ao nosso redor?<br>
+Com o “umbigo” do pr&oacute;ximo?<br> 
+A vida est&aacute; nos sorrindo, mas ser&aacute; que sorrimos de volta ou somos simp&aacute;ticos com ela tamb&eacute;m?<br>
+Você olha nos olhos das pessoas que passam por voc&ecirc; em uma rua movimentada?<br>
+Parou para ver a gra&ccedil;a em tudo que podemos aproveitar em um dia?<br>
+Posso dizer que s&oacute; n&atilde;o somos mais felizes porque n&atilde;o prestamos aten&ccedil;&atilde;o nos milagres<br>
+da vida explodindo a todo instante a nossa volta.<br>
+Eu vejo muita gente perdendo seu tempo com bobagens, pensando que &eacute; melhor do que os<br>
+outros e esquecendo de perceber a felicidade nas coisas mais simples e nos gestos mais <br>
+simpl&oacute;rios onde o dinheiro, status sociais e psicol&oacute;gicos n&atilde;o entram.<br>
+Enquanto o dia vai passando, voc&ecirc; vai estudando, trabalhando, encontrando amigos,<br>
+chateando-se, e namorando, amando....na imensid&atilde;o de um dia.<br>
+Chegando em casa &agrave; noite. <br>
+No seu lugarzinho aconchegante, tire seus sapatos e massageie seus p&eacute;s por alguns minutos<br>
+e pense em tudo o que voc&ecirc; viu, ouviu, disse e aprendeu. Em tudo que possa ser melhorado para o <br>
+amanh&atilde; te dar mais oportunidades e realiza&ccedil;&otilde;es.<br> 
+Pense em todos os “bons dias” que n&atilde;o deu, nos sorrisos recusados pelas preocupa&ccedil;&otilde;es e pressa.<br>
+No telefonema que n&atilde;o deu e no que n&atilde;o atendeu. Na pessoa lembrada e esquecida neste dia.<br>
+Em uma visita que precisa fazer. Tome um bom banho e ame o seu dia.<br>
+...Surge um quadro na sua frente. Cores estranhas, figuras distorcidas, vozes que n&atilde;o entende.<br>
+Sensa&ccedil;&otilde;es que parecem n&atilde;o ser suas. Mas s&atilde;o. Certamente esta &eacute; a pintura de um dia que quase passa<br>
+desapercebido de voc&ecirc; como esse sonho.
+Aproveite seu dia tentando criar uma obra prima na sua vida, uma pintura perfeita,<br>
+de pre&ccedil;o indiscut&iacute;vel, para &agrave; noite ter sonhos onde seja possível ao menos ver um sorriso e se sentir feliz.<br>
+
+
+      </p><h6 class="text" style="color:black;">Barbara M. de Araújo</h6>
+      
+     
+      <br>
+
+  
+    <h6 class="text">Made by R. Edward Gouveia</h6>
+  
+    
+   
+      </ion-content>
+    </ion-pane>
+  </body>
+</html>

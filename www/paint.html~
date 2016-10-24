@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    <link rel="manifest" href="manifest.json">
+
+    <!-- un-comment this code to enable service worker
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('service-worker.js')
+          .then(() => console.log('service worker installed'))
+          .catch(err => console.log('Error', err));
+      }
+    </script>-->
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+
+    <!-- ionic/angularjs js -->
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    <!-- your app's js -->
+    <script src="js/app.js"></script>
+  </head>
+  <body ng-app="starter">
+
+    <ion-pane>
+      <ion-header-bar class="bar-stable">
+          
+   
+      <a href="indexeng.html" target="_self"><img src="img/home.png"/ alt="home"></a>
+     <a href="pintura.html" target="_self"><img src="img/128.jpg"/></a>
+      </ion-header-bar>
+      <ion-content>
+             
+  
+    <h1 class="text">Paint</h1>
+    <p class="text">
+
+
+You know those days when we have the impression that is different from the others?<br> 
+Where do we see our wake, our stretch and yawn on other aspect?<br> 
+We look in the mirror, watching our daily movements, the routine of the beginnings of days.<br> 
+we always do and when do not pay attention to that almost do not.<br>
+It is a change, anything out of place leaves us in panic when we are stuck to routine.<br>
+You watched it seems go through different places when we simply delayed? Everything changes.<br> 
+The sun's color, brightness, movement in the streets, their sounds, the amount of people and the eyes of those who live with us.<br>
+It's all conditioned world the continuous ticking of a clock.<br>
+Nothing can change of pace!</br>
+Suddenly you raise early and even falling asleep, decides to look for at least one opening to see how the day dawns,<br>
+as the sun rises and the colors and sounds of those moments.</br> 
+The birds celebrate a great pleasure it is to live, wake up and be able to feel this magic.<br>
+Then you can give more value to your time and the time of life, it never stops.<br>
+starts to run. <br>
+People talk, the first horns and roar of engines, traffic ......,<br>
+its time to run, too. Do you feel that your body is leaning against a window, a door or a wall, etc.<br> 
+You feel the wind blowing gently, but sometimes cold, his face. On this day the bathwater is strange.<br>
+You can, for more than mere moments, I felt - her massaging her neck, her face, her hands; the rings and realize its importance.<br>
+In a relaxation worthy of delay. "Would be another ten minutes here ..."<br>
+Her wardrobe is now dull, as often (we never settle!) You look, look, try combining .....<br>
+if you have a little patience, will find a blouse ages ago and forgotten .... ah! Or will you be late.<br>
+And breakfast? It is almost always the same thing! A must.<br>
+Some people ranging and many tears.<br>
+Hunger, unemployment, humiliation, violence. I forgot something?<br>
+Oh, damn! For thirty seconds, just missed the bus! Do we still give us as account time is precious?<br>
+A lot of people know, knows the graceful mystery, or dark,<br>
+which may represent thirty seconds in traffic, a robbery in a hug, a smile, etc.<br>
+We pay attention to what happens to us every second?<br>
+With the life around us? With the "navel" of next? <br>
+Life is the smiling, but will smile back or are nice to her too?<br>
+You look in the eyes of the people who pass you on a busy street?<br>
+He stopped to see the grace in everything that we can take in a day?<br>
+I can say that only we are not happier because do not pay attention<br>
+the miracles of life exploding all time around us.<br> 
+I see a lot of people wasting your time with nonsense,<br>
+thinking that it is better than others and forgetting to realize happiness<br>
+in things simpler and more simplistic gestures where money, psychological and social status do not come.<br>
+<br>
+As the day goes on, you will studying, working, finding friends, is boring-and dating, loving ....<br>
+in the immensity of a day .<br>
+Coming home at night.<br> 
+in your cozy little place, take off your shoes and massage your feet for a few minutes and<br>
+think about everything you saw,<br>
+heard, he said and learned.<br>
+In all that can be improved for tomorrow give more opportunities and accomplishments.<br>
+<br> 
+Think of all the "good days" that did not, in smiles rejected the concerns and hurry.<br>
+In the phone call that did not and who did not respond.<br>
+In person remembered and forgotten on this day.<br>
+On a visit you need to do. Take a good bath and love your day.<br>
+... It appears a picture on the front.<br>
+Strange colors, distorted figures, voices that do not understand.<br>
+Sensations that seem to be his. But are.<br>
+Surely this is the painting of a day that almost goes unnoticed to you like that dream.<br>
+Enjoy your day trying to create a masterpiece in his life, a perfect painting,<br>
+undisputed price for the night having dreams where you can at least see a smile and feel happy.<br>
+
+
+      </p><h6 class="text" style="color:black;">Barbara M. de Araújo</h6>
+      
+     
+      <br>
+
+  
+    <h6 class="text">Code by R. Edward Gouveia</h6>
+  
+     
+       
+      </ion-content>
+    </ion-pane>
+  </body>
+</html>

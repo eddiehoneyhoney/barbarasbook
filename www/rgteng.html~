@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    <link rel="manifest" href="manifest.json">
+
+    <!-- un-comment this code to enable service worker
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('service-worker.js')
+          .then(() => console.log('service worker installed'))
+          .catch(err => console.log('Error', err));
+      }
+    </script>-->
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+
+    <!-- ionic/angularjs js -->
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    
+    <script src="js/app.js"></script>
+  </head>
+  <body ng-app="starter">
+
+    <ion-pane>
+      <ion-header-bar class="bar-stable">
+      
+<a href="indexeng.html" target="_self" ><img src="img/home.png" alt="home"/></a>
+ <a href="rgt.html"target="_self"><img src="img/128.jpg"/></a>
+       
+      </ion-header-bar>
+      <ion-content>
+      
+      
+
+ <h1 class="text">The street of telepathic cats</h1>
+  
+    
+
+     <!-- <p class="text" style="color:black;">Barbara M AG</p> -->
+<p class="text">
+
+
+Snow decides to make party;<br>
+City of Cats is armed on the street of telepathic;<br>
+How many cats, my God !!!<br>
+Snow invites the coolest ...<br>
+The cat did not want to be people;<br>
+Snow plays keyboard for them, while opening a bottle of wine,<br>
+dresses with a silk tunic, cats celebrate ...<br>
+Snow with his plumes tail sets the compass ...<br>
+ta ... ta ... ... ixxx ixx ... taaa ...<br>
+Snow ...<br>
+tell me more ...<br>
+tell me more ...<br>
+In street of telepathic cats there is no sorrow;<br>
+Cats do not show sadness ... they stop and telepatam<br>
+Snow ...<br>
+tell me more<br>
+tell me more ...<br>
+Do not lie, others read your thoughts. hahaha<br>
+the street cats of telepathic there is<br>
+Cats know this is relative<br>
+The truth depends on the smell that comes with wind<br>
+truth,...Snow knows that no good either say ... if everyone understands how you want to<br>
+ Snow<br>
+tell me more<br>
+tell me more<br>
+in the street of telepathic cats ...<br>
+who speaks the truth is free?<br>
+this prison?<br>
+Ta ... ixxx ... ta ... ixx ... taaa<br>
+Snow<br>
+tell me more<br>
+tell me more ..<br>
+In street of telepathic cats have no labels ...<br>
+life is free ...<br>
+is free .... ... all meow ... and understand ..<br>
+and when something goes wrong all run, jiggle around and not think of anything ....<br>
+ is the universe adjusting.<br>
+On the street of telepathic cats.<br>
+tototo to taaa .... tototo taaa ...<br>
+A cat solve revolutionize ...<br>
+he thought it was a dog ... and barked.<br>
+Everyone looked to he smiled and in the time to run<br>
+No fears in the street of telepathic cats..<br>
+They are unique and they know it ...<br>
+and another bottle of wine ...<br>
+and the cats discuss Bob Dylan..<br>
+on the street of telepathic cats are all human are aliens ... live !!! Yeah !!!<br>
+... ta ... ta ... ixxx ixx ... taaa<br>
+and tail Snow determines the</br>
+He does not think about time and everything goes perfect ...</br>
+measure;.On the street of telepathic cats</br>
+They eat, sleep, and drink their wine.</br>
+Nothing can prevent these furry.</br>
+and the street of telepathic cats ...</br>
+they are the same ... simple ... the best and the supreme ...</br>
+they know who they are and they want and where they will come ...</br>
+Ta ... ixxx..ta ... ixxx ... taaaa</br>
+Snow said: ok is good for now!</br>
+
+</p>
+
+
+
+             <h6 class="text" style="color:black;"> Made by Barbara M AG</h6>
+  
+    <h6 class="text">Code by R. Edward Gouveia</h6>
+  
+
+
+    
+      
+      
+      </ion-content>
+    </ion-pane>
+  </body>
+</html>

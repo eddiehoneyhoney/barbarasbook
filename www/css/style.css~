@@ -1,0 +1,22 @@
+/* Empty. Add your own CSS if you like */
+ 
+  
+ .scroll-content{
+    background: url("../img/bookshelf.png") no-repeat center center fixed; 
+    -webkit-background-size: auto;
+    -moz-background-size: auto;
+    background-size: 100% 50%;
+    
+    background-color: grey;
+    text-align: center;
+    color:deepskyblue;
+    font-weight: bolder;
+    font-size: large;
+}
+   /*.text{
+  //color: #fff;
+//background-color: rgba(0,0,0,0.65);
+//text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #28F4EA, 0 0 30px #28F4EA, 0 0 40px #28F4EA, 0 0 55px #28F4EA, 0 0 75px #28F4EA  
+   }
+*/
+ 
